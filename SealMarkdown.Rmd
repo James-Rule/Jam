@@ -25,7 +25,7 @@ ggplot(compensation, aes(x = Root, y = Fruit)) +
 ```
 
 
-![seal](seal-bouncing.GIF) / ! [](seal-bouncing.GIF)
+![seal](https://media.tenor.com/bTfBvSIjrIgAAAAd/seal-bouncing.gif)
 
 ## Including Plots
 
