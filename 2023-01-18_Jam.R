@@ -2,4 +2,6 @@
 
 # Seals r cool
 library(tidyverse)
-seals <- ("cool_seal","uncool_seal","bob")
+library(dplyr)
+seals <- data.frame("cool_seal","uncool_seal","bob")
+seals
