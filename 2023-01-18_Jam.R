@@ -3,5 +3,8 @@
 # Seals r cool
 library(tidyverse)
 library(dplyr)
-seals <- data.frame("cool_seal","uncool_seal","bob")
-seals
+seals <- c("cool_seal","uncool_seal","bob","zorg")
+glimpse(seals)
+coolness <- c(70,63,82,1)
+sealdata <- data.frame(seals,coolness, row.names = NULL)
+sealdata
